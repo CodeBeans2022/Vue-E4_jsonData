@@ -1,0 +1,19 @@
+{
+    [
+        {
+            "name": "Mike Jones",
+            "age": "21",
+            "occupation": "Student"
+        },
+            {
+            "name": "Emily Stuart",
+            "age": "24",
+            "occupation": "Employed"
+        }
+            {
+            "name": "",
+            "age": "24",
+            "occupation": "Employed"
+        }
+    ]
+}
