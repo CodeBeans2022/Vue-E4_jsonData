@@ -1,19 +1,33 @@
-{
-    [
-        {
-            "name": "Mike Jones",
-            "age": "21",
-            "occupation": "Student"
-        },
-            {
-            "name": "Emily Stuart",
-            "age": "24",
-            "occupation": "Employed"
-        }
-            {
-            "name": "",
-            "age": "24",
-            "occupation": "Employed"
-        }
-    ]
-}
+[
+    {
+        "id":"One",
+        "price": 80,
+        "bookTitle": "X-Men",
+        "image": "https://i.postimg.cc/QdC8W5Gm/X-Men.jpg",
+        "category": "Marvel Comics"
+    },
+    
+    {
+        "id":"Two",
+        "price": 120,
+        "bookTitle": "Avengers",
+        "image": "https://i.postimg.cc/gkDjhmwz/Avengers.jpg",
+        "category": "Marvel Comics"
+    },
+    
+    {
+        "id":"Three",
+        "price": 80,
+        "bookTitle": "Spider-Man",
+        "image": "https://i.postimg.cc/xdk1Bm68/Spiderman.jpg",
+        "category": "Marvel Comics"
+    },
+    
+    {
+        "id":"Four",
+        "price": 110,
+        "bookTitle": "Fantastic Four",
+        "image": "https://i.postimg.cc/mZ7tbQBF/Fantastic-Four.jpg",
+        "category": "Marvel Comics"
+    }
+]
